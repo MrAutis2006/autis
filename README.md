@@ -1,4 +1,5 @@
-# INSTALL PACKAGE
+# PACKAGE INSTALL
+
 pkg update && pkg upgrade
 
 pkg install python 
